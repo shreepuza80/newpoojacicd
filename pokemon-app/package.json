@@ -16,7 +16,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/infinityworks/academy-github-actions-demo.git"
+        "url": "https://github.com/shreepuza80/newpoojacicd.git"
     },
     "dependencies": {
         "express": "^4.17.1",
